@@ -8,3 +8,6 @@ Edit log:
     - Palindrome Number
     - Roman to Integer
     - Longest Common Prefix
+
+2. 29-June-2020 1 easy exercise:
+    - Valid Parenthesis
